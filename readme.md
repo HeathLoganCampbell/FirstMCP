@@ -10,6 +10,12 @@
 * MCP inspector made life a lot easier https://github.com/modelcontextprotocol/inspector
 * LLMs suck at making MCP Servers, ironically. You can fix this by giving it the docs
 
+## I Think
+Overall, I think it's really critical we can make and run these models locally for the next 1 - 3 years because we could leverage some unreal ideas but it was a bit more difficult than I thought to set up a mcp server. 
+
+ideas 
+* make a MCP for WinForms application so reproducing bugs, features & tests becomes a lot easier, making it easier to onboard new people.
+
 ## Set Up
 * MCP Client = vs code / copilot
 * MCP Server = locally hosted C# app with http
