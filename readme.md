@@ -11,7 +11,8 @@
 * VS Code has the easiest MCP support
 * Tool = endpoint
 * Make sure your MCP Server is running, and the MCP Server in mcp.json is running
-* MCP inspector made life a lot easier https://github.com/modelcontextprotocol/inspector 
+* MCP inspector made life a lot easier https://github.com/modelcontextprotocol/inspector
+* LLMs suck at making MCP Servers, ironically. You can fix this by giving it the docs
 
 ```
 {
