@@ -10,6 +10,10 @@
 * MCP inspector made life a lot easier https://github.com/modelcontextprotocol/inspector
 * LLMs suck at making MCP Servers, ironically. You can fix this by giving it the docs
 
+## Set Up
+* MCP Client = vs code / copilot
+* MCP Server = locally hosted C# app with http
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
