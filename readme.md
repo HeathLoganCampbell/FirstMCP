@@ -12,3 +12,16 @@
 * Tool = endpoint
 * Make sure your MCP Server is running, and the MCP Server in mcp.json is running
 * MCP inspector made life a lot easier https://github.com/modelcontextprotocol/inspector 
+
+```
+{
+	"servers": {
+	
+		"my-mcp-server-58fcc28f": {
+			"url": "http://localhost:3001",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
+```
