@@ -14,7 +14,8 @@
 Overall, I think it's really critical we can make and run these models locally for the next 1 - 3 years because we could leverage some unreal ideas but it was a bit more difficult than I thought to set up a mcp server. 
 
 ideas 
-* make a MCP for WinForms application so reproducing bugs, features & tests becomes a lot easier, making it easier to onboard new people.
+* make a MCP server for WinForms application so reproducing bugs, features & tests becomes a lot easier, making it easier to onboard new people.
+* Make a MCP server for SQL Server connector, so the LLM can run it's own queries
 
 ## Set Up
 * MCP Client = vs code / copilot
